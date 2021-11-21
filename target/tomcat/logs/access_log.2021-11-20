@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/home HTTP/1.1" 200 9644 http-bio-8080-exec-1 733
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/css/style.css HTTP/1.1" 200 13561 http-bio-8080-exec-2 42
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/hpluslogo.svg HTTP/1.1" 200 3311 http-bio-8080-exec-3 29
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/employees/HenryTwill.jpg HTTP/1.1" 200 59000 http-bio-8080-exec-4 30
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/employees/JessicaNewton.jpg HTTP/1.1" 200 33119 http-bio-8080-exec-5 29
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/employees/PhiTang.jpg HTTP/1.1" 200 67567 http-bio-8080-exec-6 36
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/employees/MariaSontas.jpg HTTP/1.1" 200 57976 http-bio-8080-exec-7 41
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/employees/AngelaHaston.jpg HTTP/1.1" 200 65419 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:00 +0530] "GET /springmvcmaven/images/employees/MichaelLewiston.jpg HTTP/1.1" 200 72804 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:06 +0530] "GET /springmvcmaven/images/backgrounds/running.jpg HTTP/1.1" 200 152503 http-bio-8080-exec-10 54
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:06 +0530] "GET /springmvcmaven/images/backgrounds/cycling.jpg HTTP/1.1" 200 277290 http-bio-8080-exec-2 20
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:06 +0530] "GET /springmvcmaven/images/employees/HenryTwill_outline.png HTTP/1.1" 200 506466 http-bio-8080-exec-5 71
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:06 +0530] "GET /springmvcmaven/images/backgrounds/soccer.jpg HTTP/1.1" 200 86343 http-bio-8080-exec-11 7
+0:0:0:0:0:0:0:1 - - [20/Nov/2021:16:40:06 +0530] "GET /springmvcmaven/images/backgrounds/discthrower.jpg HTTP/1.1" 200 154239 http-bio-8080-exec-9 9
